@@ -1,0 +1,7 @@
+D:\C#\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csprojAssemblyReference.cache
+D:\C#\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csproj.CoreCompileInputs.cache
+D:\C#\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe.config
+D:\C#\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe
+D:\C#\EmployeeList\EmployeeList\bin\Debug\EmployeeList.pdb
+D:\C#\EmployeeList\EmployeeList\obj\Debug\EmployeeList.exe
+D:\C#\EmployeeList\EmployeeList\obj\Debug\EmployeeList.pdb
